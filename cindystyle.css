@@ -1,0 +1,20 @@
+h1 {
+	text-align: center;
+	color: pink;
+	text-transform: uppercase;
+	font-family: 'Barrio', cursive;
+}
+
+body {
+	background: black;
+}
+
+.list {
+	color: white;
+	text-align: center;
+	font-size: 4em;
+}
+
+.list ul {
+	list-style: none;	
+}
